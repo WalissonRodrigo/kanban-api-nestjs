@@ -1,5 +1,5 @@
 {
-  "name": "crud-with-jwt-in-nestjs-and-swagger",
+  "name": "kanban-api-nestjs",
   "version": "1.0.0",
   "description": "Project example to make a simple CRUD using Prisma and NestJS with JWT Token and Swagger to test",
   "author": "Walisson Rodrigo",
