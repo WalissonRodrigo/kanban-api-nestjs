@@ -26,7 +26,7 @@
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=WalissonRodrigo_crud-with-jwt-in-nestjs-and-swagger&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=WalissonRodrigo_crud-with-jwt-in-nestjs-and-swagger)
 
 Created using [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository. Running database SQLite using ORM [Prisma](https://github.com/prisma/prisma) to manager Data Base.
-Using JWT Token in CRUD operations all data are be manipulated using [Swagger](http://localhost:3000/) locally after running the server.
+Using JWT Token in CRUD operations all data are be manipulated using [Swagger](http://localhost:5000/) locally after running the server.
 
 # Automatic Installation
 ```bash
@@ -60,7 +60,7 @@ $ npm run start:dev
 $ npm run start:prod
 ```
 
-After running server open your browser and navigate to [http://localhost:3000](http://localhost:3000) to use Swagger local
+After running server open your browser and navigate to [http://localhost:5000](http://localhost:5000) to use Swagger local
 
 ## Test
 
