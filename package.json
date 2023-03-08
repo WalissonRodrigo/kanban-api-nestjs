@@ -2,7 +2,6 @@
   "name": "kanban-api-nestjs",
   "version": "1.0.0",
   "description": "Project example to make a simple CRUD using Prisma and NestJS with JWT Token and Swagger to test",
-  "author": "Walisson Rodrigo",
   "private": true,
   "license": "MIT",
   "scripts": {
@@ -79,5 +78,22 @@
     ],
     "coverageDirectory": "../coverage",
     "testEnvironment": "node"
+  },
+  "author": {
+    "name": "Walisson Rodrigo",
+    "email": "walissonrodrigo@outlook.com",
+    "url": "https://wrsystems.com.br"
+  },
+  "keywords": [
+    "nest.js",
+    "prisma",
+    "node.js",
+    "sqlite",
+    "swagger",
+    "jwt"
+  ],
+  "engines": {
+    "npm": ">=8.19.2",
+    "node": ">=16.18.1"
   }
 }
